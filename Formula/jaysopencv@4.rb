@@ -1,4 +1,4 @@
-class jaysOpencvAT4 < Formula
+class JaysopencvAT4 < Formula
   desc "Open source computer vision library"
   homepage "https://opencv.org/"
   url "https://github.com/opencv/opencv/archive/4.2.0.tar.gz"
